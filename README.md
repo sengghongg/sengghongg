@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Senghong</h1>
 <h3 align="center">A passionate frontend developer & Penetration Testing from Cambodia</h3>
-<img align="right" alt="Coding" width="400" src="https://o.remove.bg/downloads/c787874e-64de-4236-905d-afb2ba025cfa/1-removebg-preview.png"
+<img align="right" alt="Coding" width="400" src="https://drive.google.com/file/d/1zUv8aKU5dZ93h_TAF3N_M49DFI_Cn1EW/view?usp=drive_link"
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sengghongg&label=Profile%20views&color=0e75b6&style=flat" alt="sengghongg" /> </p>
 
